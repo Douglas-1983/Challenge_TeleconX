@@ -27,7 +27,7 @@ Este projeto tem como objetivo explorar e visualizar dados relacionados ao cance
 - Gráfico de barras horizontais: cancelamentos por tipo de contrato
 - Gráfico de barras verticais: cancelamentos ao longo de meses de contrato
 - Boxplot: Distribuição do tempo de contrato por cancelamento e Distribuição do total de gasto por cancelamento
-## 📦 Como executar
+
 
 
 
